@@ -1,0 +1,11 @@
+cff-version: v2021.12.02
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Mokhberi
+    given-names: Maryam
+title: "Anti-asian COVID19-related Hatespeech and Stigma on Twitter"
+version: V2021.12.02
+doi: 10.5281/zenodo.5750374
+date-released: 2021-12-02
+
+
