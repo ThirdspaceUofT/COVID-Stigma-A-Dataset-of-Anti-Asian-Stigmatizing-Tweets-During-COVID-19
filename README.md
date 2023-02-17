@@ -1,1 +1,5 @@
-A dataset of covid-related anti-asian hate speech and stigma on Twitter
+This repository contains the Datasets (versions 1.0, 1.1, 2.0, 3.0 and 3.1) and labeling Instructions related to the paper [1] done at [ThirdSpace Lab](https://thirdspace.toronto.edu/), University of Toronto.
+
+Data Set v3.0 contains 11,263 manually annotatged English tweets with primary labels(unknown/irrelevant, not-stigmatizing, stigmatizing-low, stigmatizing-medium, stigmatizing-high) and tweet subtopics (eg, wet market and eating habits, COVID-19 cases, bioweapon). Data Set v3.1 contains 4998 (44.4%) tweets randomly sampled from Data Set v3.0, where a second annotator labeled them only on the primary labels and then a third annotator resolved conflicts between the first and second annotators. This high quality twitter dataset on stigma towards the Asian population can be used as a benchmark for further qualitative and quantitative research and analysis around the issue.
+
+[1] Mokhberi M, Biswas A, Masud Z, Kteily-Hawa R, Goldstein A, Gillis JR, Rayana S, Ahmed SI Development of COVID-19-related Anti-Asian Tweet Dataset: A Quantitative Study JMIR Formative Research. 11/11/2022:40403 (forthcoming/in press) [[DOI]](https://preprints.jmir.org/preprint/40403)
